@@ -1,0 +1,2 @@
+The robot is 1.5cm tall. It has a base and supports.
+The supports seemed nesasserry after falling apart on a first attempt.
